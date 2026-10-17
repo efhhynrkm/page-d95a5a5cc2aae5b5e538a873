@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e2892bfb5f73109aa8d723f7",
+  "owner": "efhhynrkm",
+  "repo": "page-d95a5a5cc2aae5b5e538a873",
+  "title": "易VPN(YIVPN)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d95a5a5cc2aae5b5e538a873",
+      "a": "易VPN(YIVPN)",
+      "b": "",
+      "entity": "易VPN(YIVPN)",
+      "brand": "易VPN(YIVPN)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "722318660b87e303cdb4571a42fa9fe8774b3d153cfd53dabbd76a123444c25b",
+      "content": {
+        "keyword1": "易VPN(YIVPN)",
+        "keyword2": "",
+        "primary_entity": "易VPN(YIVPN)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "易VPN提供安全稳定的VPN服务，解锁全球流媒体，保护您的上网隐私。",
+          "AI_DESCRIPTION": "易VPN提供安全稳定的VPN服务，解锁全球流媒体，保护您的上网隐私。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        :root {--brown: #3f2a1f;--mint: #a8e6cf;--light: #f8f8f8;--dark: #1a1a1a}\n        body {margin: 0;font-family: system-ui, -apple-system, sans-serif;background: var(--brown);color: var(--light);line-height: 1.6}\n        .hero {height: 100vh;display: flex;align-items: center;position: relative;overflow: hidden}\n        .hero-bg {position: absolute;inset: 0;background: linear-gradient(135deg, var(--brown), #2c1f14);z-index: 1}\n        .hero-content {position: relative;z-index: 2;display: flex;width: 100%;max-width: 1200px;margin: 0 auto;padding: 0 2rem;gap: 4rem}\n        .hero-left {flex: 1;padding-top: 4rem}\n        .hero-left h1 {font-size: 3.8rem;font-weight: 700;margin-bottom: 1.2rem;line-height: 1.1}\n        .hero-left p {font-size: 1.35rem;margin-bottom: 1.1rem}\n        .hero-right {flex: 1;max-width: 420px}\n        .nav {display: flex;gap: 2rem;margin-bottom: 3rem}\n        .nav a {color: var(--light);text-decoration: none;font-size: 1.05rem;font-weight: 500;transition: color 0.2s}\n        .nav a:hover {color: var(--mint)}\n        .info-panel {background: white;color: var(--brown);padding: 2.5rem;border-radius: 24px;box-shadow: 0 15px 50px rgba(63, 42, 31, 0.35)}\n        .info-panel h3 {margin: 0 0 1.5rem 0;font-size: 1.65rem}\n        .cta {background: var(--mint);color: var(--brown);border: none;padding: 1.1rem 2.2rem;font-size: 1.15rem;border-radius: 9999px;width: 100%;cursor: pointer;margin-bottom: 2rem;font-weight: 600}\n        .cta:hover {background: #7ed9a8}\n        .benefit-list {display: grid;grid-template-columns: 1fr;gap: 1.1rem}\n        .benefit {display: flex;align-items: center;gap: 1rem}\n        .benefit::before {content: \"✓\";color: var(--mint);font-size: 1.4rem}\n        section {padding: 5rem 0;max-width: 1100px;margin: 0 auto;padding-left: 2rem;padding-right: 2rem}\n        h2 {font-size: 2.4rem;margin-bottom: 3rem;color: var(--mint)}\n        .plans-grid {display: grid;gap: 2rem}\n        .plan-card {background: white;color: var(--brown);border-radius: 28px;overflow: hidden;box-shadow: 0 12px 40px rgba(63, 42, 31, 0.18);transition: transform 0.3s}\n        .plan-card:hover {transform: translateY(-8px)}\n        .plan-header {padding: 1.8rem 2rem;text-align: center;border-bottom: 1px solid #eee}\n        .plan-header h3 {font-size: 1.85rem;margin: 0 0 0.6rem}\n        .plan-price {font-size: 2.65rem;font-weight: 700;margin-bottom: 0.4rem}\n        .plan-annual {color: #666;font-size: 1.05rem}\n        .plan-features {padding: 0 2rem 2rem}\n        .plan-features ul {list-style: none;padding: 0;margin: 0}\n        .plan-features li {padding: 0.85rem 0;border-bottom: 1px solid #eee;font-size: 1.05rem}\n        .plan-features li:last-child {border-bottom: none}\n        .plan-footer {padding: 1.8rem 2rem;text-align: center}\n        .plan-footer button {background: var(--mint);color: var(--brown);border: none;padding: 1rem 2.2rem;font-size: 1.1rem;border-radius: 9999px;width: 100%;cursor: pointer;font-weight: 600}\n        .featured {position: relative}\n        .featured::after {content: \"最推荐\";position: absolute;top: 2rem;right: 2rem;background: var(--mint);color: var(--brown);padding: 0.35rem 1.1rem;border-radius: 9999px;font-size: 0.95rem;font-weight: 700;letter-spacing: 0.5px}\n        .faq-section {background: white;color: var(--brown);border-radius: 24px;padding: 2rem}\n        details {margin-bottom: 1.5rem;border-radius: 18px;overflow: hidden;box-shadow: 0 4px 15px rgba(63, 42, 31, 0.1)}\n        summary {font-size: 1.25rem;font-weight: 600;padding: 1.4rem 1.8rem;cursor: pointer;background: #f8f8f8;list-style: none}\n        summary::-webkit-details-marker {display: none}\n        .faq-content {padding: 0 1.8rem 1.8rem;font-size: 1.08rem}\n        .faq-content p {margin: 0}\n        footer {background: #2c1f14;padding: 3rem 0;text-align: center;font-size: 0.95rem;color: #aaa}\n    </style><header class=\"hero\">\n        <div class=\"hero-bg\"></div>\n        <div class=\"hero-content\">\n            <div class=\"hero-left\">\n                <h1>易VPN(YIVPN)</h1>\n                <p>安全可靠的网络连接。</p>\n                <p>解锁全球流媒体内容。</p>\n                <p>随时保护您的隐私。</p>\n            </div>\n            <div class=\"hero-right\">\n                <div class=\"nav\">\n                    <a href=\"#plans\">套餐</a>\n                    <a href=\"#faq\">FAQ</a>\n                </div>\n                <div class=\"info-panel\">\n                    <h3>立即体验</h3>\n                    \n                    <div class=\"benefit-list\">\n                        <div class=\"benefit\">每月高速流量包</div>\n                        <div class=\"benefit\">多设备同时在线</div>\n                        <div class=\"benefit\">流媒体原生解锁</div>\n                        <div class=\"benefit\">IPLC游戏加速</div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </header>\n\n    <section id=\"plans\">\n        <h2>选择适合您的套餐</h2>\n        <div class=\"plans-grid\">\n            <div class=\"plan-card\">\n                <div class=\"plan-header\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15</div>\n                    <div class=\"plan-annual\">/月 • 按年付仅需 ¥150/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-footer\">\n                    \n                </div>\n            </div>\n\n            <div class=\"plan-card featured\">\n                <div class=\"plan-header\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35</div>\n                    <div class=\"plan-annual\">/月 • 按年付仅需 ¥350/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-footer\">\n                    \n                </div>\n            </div>\n\n            <div class=\"plan-card\">\n                <div class=\"plan-header\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85</div>\n                    <div class=\"plan-annual\">/月 • 按年付仅需 ¥850/年</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n                <div class=\"plan-footer\">\n                    \n                </div>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\" class=\"faq-section\">\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是易VPN？</summary>\n            <div class=\"faq-content\">\n                <p>易VPN 是一款安全稳定的 VPN 服务。</p>\n            </div>\n        </details>\n        <details>\n            <summary>如何选择套餐？</summary>\n            <div class=\"faq-content\">\n                <p>根据流量需求和设备数量选择基础版、旗舰版或团队版。</p>\n            </div>\n        </details>\n        <details>\n            <summary>支持哪些设备？</summary>\n            <div class=\"faq-content\">\n                <p>支持手机、平板、电脑和电视等多种设备。</p>\n            </div>\n        </details>\n        <details>\n            <summary>流量如何计算？</summary>\n            <div class=\"faq-content\">\n                <p>每月固定流量包，超出部分可能影响速度。</p>\n            </div>\n        </details>\n        <details>\n            <summary>如何获得支持？</summary>\n            <div class=\"faq-content\">\n                <p>通过 7x24 工单或专属客服。</p>\n            </div>\n        </details>\n    </section>\n\n    <footer>\n        <p>易VPN(YIVPN) © 2024 • 安全网络 · 隐私优先</p>\n    </footer></main>",
+          "hash": "9bc7614afcbe6b690f704ce08247072a0348a7b35bc8f7acc2289f4d04dfd8e4",
+          "seo": {
+            "title": "易VPN(YIVPN) | 安全VPN服务",
+            "keywords": "易VPN, VPN服务, 流媒体解锁, 安全上网, IPLC加速",
+            "description": "易VPN提供安全稳定的VPN服务，解锁全球流媒体，保护您的上网隐私。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1808",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "exeod.cn",
+    "host": "p-42f6bb70bd.exeod.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "31f6264912ed63b875ffa6db389f8b6290c79ad6c4bbc7d4a0882e578a4dbdd4",
+    "sitemap.xml": "154ea5080887a3a3e8bd334bf41ce695ca49aa889582a01f857bcaab88fe43d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b89d75ea0a16c5f8b6cc7a48d9a620f4a9f3665b946e8ecfa443f2b76e6b0cd9",
+    "robots.txt": "6b80efbce79891d2bbd9097df9d5717b7815a93f9d1fcea42d93b7bbea5228a4",
+    "4d451aebea4f5b625208381b97692306.txt": "b55bed7b6293129891b1cd48ed84b935d83fddccee01ac8d833fc62b1a446db8"
+  },
+  "revision": "dddb920944b0dfa02c23c05a03d089c1eab423abfede2c77d6ed9237e79e18b8"
+}
